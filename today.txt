@@ -1,1 +1,2 @@
-hello ， 今天是星期五
+hello
+this is end
